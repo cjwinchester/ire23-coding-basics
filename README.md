@@ -14,7 +14,7 @@ Also check out:
 
 ### Outline
 - Good reasons to learn to code
-    - ✅ You want to automate the boring shit so you can spend more time journalism-ing
+    - ✅ You want to [automate the boring shit](https://automatetheboringstuff.com/) so you can spend more time journalism-ing
     - ✅ You're running into problems that your existing tools can't solve -- build out your toolbox!
     - ✅ You want to challenge yourself to learn new skills
 - Bad reasons to learn to code
