@@ -55,3 +55,8 @@ Also check out:
 - Open the `Terminal` application
 - `python3 hello.py`
 - `python3`
+
+### Resources
+- [NICAR Listserv](https://www.ire.org/resources/listservs/)
+- [News Nerdery Slack team](https://newsnerdery.org/) (check the #helpme channel)
+- Lonely Coder's Club Slack team (ask me for an invite!)
