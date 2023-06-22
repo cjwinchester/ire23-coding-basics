@@ -8,7 +8,7 @@ The session is scheduled for Thursday, June 22, from 10:15 - 11:15 a.m. in room 
 
 Also check out:
 - "Don't be afraid of the command line (Macs)," Saturday, June 24, at 3 p.m. in `Coral A`.
-- "Finding needles in haystacks," an introduction to the command-line software `csvmatch`, Saturday, June 24, at 3 p.m. in `Coral A`.
+- "Finding needles in haystacks," an introduction to the command-line software `csvmatch`, Saturday, June 24, at 4:15 p.m. in `Coral A`.
 
 ### Ask lots of questions!
 
